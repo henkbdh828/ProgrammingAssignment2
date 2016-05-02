@@ -1,5 +1,5 @@
 ## Cache Matrix script for coursera.org r programming class
-## The following will cache the inverse of a matrix
+## The following will cache the inverse of any matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   ## set a null value for matinv
